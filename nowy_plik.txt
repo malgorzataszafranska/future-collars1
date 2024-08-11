@@ -1,0 +1,2 @@
+to jest nowy plik ktory zawiera tekst
+Cwiczymy cherry-pickowanie
