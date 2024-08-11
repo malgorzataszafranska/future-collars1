@@ -1,2 +1,3 @@
 hejoooooo
 to jest moj plik
+dodaje nowa linie na feature branchu no.2
